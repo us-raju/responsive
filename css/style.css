@@ -1,0 +1,12 @@
+nav{
+    background-color: red;
+}
+nav #main_menu ul li a{
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.navbar-toggler{
+    color: #555555;
+    background:#fff;
+}
